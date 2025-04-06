@@ -1,0 +1,3 @@
+- name: Generate staticwebapp.config.json
+  run: |
+    sed "s|\${REDIRECT_URL}|${{ secrets.REDIRECT_URL }}|g" staticwebapp.config.template.json > staticwebapp.config.json
