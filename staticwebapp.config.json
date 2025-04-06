@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/",
-      "redirect": "https://kenyargicoglu.dev",
+      "redirect": "https://github.com/cryptoken",
       "statusCode": 301
     }
   ]
