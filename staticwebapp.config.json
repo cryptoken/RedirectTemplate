@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "https://kenyargicoglu.dev",
+      "statusCode": 301
+    }
+  ]
+}
