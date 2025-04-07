@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/",
-      "redirect": "https://github.com/cryptoken",
+      "redirect": "${REDIRECT_URL}",
       "statusCode": 301
     }
   ]
